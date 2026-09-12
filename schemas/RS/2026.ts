@@ -81,7 +81,7 @@ interface RedditPost_2026 {
 		banned_by: null,
 		can_gild: boolean,
 		can_mod_post: boolean,
-		category: null|"diy_and_crafts"|"entertainment"|"drawing_and_painting"|"photography"|"gaming",
+		category: null|"diy_and_crafts"|"entertainment"|"drawing_and_painting"|"photography"|"gaming"|"animals",
 		clicked: boolean,
 		content_categories: null|("photography"|"drawing_and_painting"|"entertainment"|"comics"|"gaming"|"diy_and_crafts"|"writing"|"music"|"videos")[],
 		contest_mode: boolean,
@@ -131,10 +131,10 @@ interface RedditPost_2026 {
 		link_flair_type: "text"|"richtext",
 		location_lat?: null|number,
 		location_long?: null|number,
-		location_name?: null|"London, Greater London"|"Norway"|"Venice (Venezia), Veneto"|"Houston, TX",
+		location_name?: null|"London, Greater London"|"Norway"|"Venice (Venezia), Veneto"|"Houston, TX"|"Oslo, Oslo fylke"|"City of El Paso, Texas"|"Virginia Beach, Virginia",
 		locked: boolean,
 		media: null|{
-			event_id?: "1gb1jdg62n0id"|"18hnzysb1elcs",
+			event_id?: "1gb1jdg62n0id"|"18hnzysb1elcs"|"wqafn68z94tk",
 			oembed?: {
 				author_name?: string,
 				author_url?: string,
@@ -331,7 +331,7 @@ interface RedditPost_2026 {
 		saved: boolean,
 		score: number,
 		secure_media: null|{
-			event_id?: "1gb1jdg62n0id"|"18hnzysb1elcs",
+			event_id?: "1gb1jdg62n0id"|"18hnzysb1elcs"|"wqafn68z94tk",
 			oembed?: {
 				author_name?: string,
 				author_url?: string,

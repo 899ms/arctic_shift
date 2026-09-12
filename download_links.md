@@ -26,6 +26,7 @@ Please seed the torrents for as long as possible. Shortly after release download
 | 2024-09           | [Academic Torrents](https://academictorrents.com/details/43a6e113d6ecacf38e58ecc6caa28d68892dd8af)              |                                                                                                    |
 | 2024-10           | [Academic Torrents](https://academictorrents.com/details/507dfcda29de9936dd77ed4f34c6442dc675c98f)              |                                                                                                    |
 | 2024-11           | [Academic Torrents](https://academictorrents.com/details/a1b490117808d9541ab9e3e67a3447e2f4f48f01)              |                                                                                                    |
+| 2005-06 - 2024-12 | [Academic Torrents](https://academictorrents.com/details/ba051999301b109eab37d16f027b3f49ade2de13)              |                                                                                                    |
 | 2024-12           | [Academic Torrents](https://academictorrents.com/details/eb2017da9f63a49460dde21a4ebe3b7c517f3ad9)              |                                                                                                    |
 | 2025-01           | [Academic Torrents](https://academictorrents.com/details/4fd14d4c3d792e0b1c5cf6b1d9516c48ba6c4a24)              |                                                                                                    |
 | 2025-02           | [Academic Torrents](https://academictorrents.com/details/2f873e0b15da5ee29b63e586c0ab1dedd3508870)              |                                                                                                    |
@@ -39,14 +40,17 @@ Please seed the torrents for as long as possible. Shortly after release download
 | 2025-10           | [Academic Torrents](https://academictorrents.com/details/cb4fa22ea76ea0a2bb38885b27323c94a5d9d16c)              |                                                                                                    |
 | 2025-11           | [Academic Torrents](https://academictorrents.com/details/2d056b22743718ac81915f25b094b6226668663f)              |                                                                                                    |
 | 2025-12           | [Academic Torrents](https://academictorrents.com/details/481bf2eac43172ae724fd6c75dbcb8e27de77734)              |                                                                                                    |
-| 2005-06 - 2025-12 | ~~[Academic Torrents](https://academictorrents.com/details/3d426c47c767d40f82c7ef0f47c3acacedd2bf44)~~ <br> magnet link: `magnet:?xt=urn:btih:3d426c47c767d40f82c7ef0f47c3acacedd2bf44&dn=reddit&xl=3804096351995&tr=https%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce`             |                                                                                                    |
+| 2005-06 - 2025-12 | ~~[Academic Torrents](https://academictorrents.com/details/3d426c47c767d40f82c7ef0f47c3acacedd2bf44)~~ <br> **See below**             |                                                                                                    |
 | 2026-01           | [Academic Torrents](https://academictorrents.com/details/8412b89151101d88c915334c45d9c223169a1a60)              |                                                                                                    |
 | 2026-02           | [Academic Torrents](https://academictorrents.com/details/c5ba00048236b60f819dbf010e9034d24fc291fb)              |                                                                                                    |
 | 2026-03           | [Academic Torrents](https://academictorrents.com/details/668087bb8c8c9c763b27a1a4c5e7fcb6add25f2c)              |                                                                                                    |
 | 2026-04           | [Academic Torrents](https://academictorrents.com/details/85d017ddd06920534187e7d45f21c7cec90c9bca)              |                                                                                                    |
 | 2026-05           | [Academic Torrents](https://academictorrents.com/details/55199eff9368cde1f5c1262dd7c1af09f7503ea5)              |                                                                                                    |
 | 2026-06           | [Academic Torrents](https://academictorrents.com/details/3bac8bd352bbb74bbb23df4273cf3da5d66ee5a5)              |                                                                                                    |
-| 2026-07           | [Academic Torrents](https://academictorrents.com/details/e04a4fda12826ab1d181eef6512b36aca63c70ff)              |   
+| 2026-07           | [Academic Torrents](https://academictorrents.com/details/e04a4fda12826ab1d181eef6512b36aca63c70ff)              |   |
+| 2026-08           | [Academic Torrents](https://academictorrents.com/details/f4848163a5fb650e4b15eee0202858447bca120a)              |                                                                                                    |
+
+2005-06 - 2025-12 magnet link: `magnet:?xt=urn:btih:3d426c47c767d40f82c7ef0f47c3acacedd2bf44&dn=reddit&xl=3804096351995&tr=https%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce`
 
 ### Other
 
